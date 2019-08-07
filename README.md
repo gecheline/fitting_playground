@@ -12,7 +12,7 @@ as well as fitting data.
 (particle swarm optimization) on a 2D multimodal function with two global and many local minima.
 
 [Samplers Playground](https://nbviewer.jupyter.org/github/gecheline/fitting_playground/blob/master/samplers_eggbox.ipynb)
-- nested sampling with [dynesty] and [nestle] and MCMC sampling with [emcee] on the eggbox distribution.
+- nested sampling with [dynesty](https://dynesty.readthedocs.io/en/latest/index.html) and [nestle](http://kylebarbary.com/nestle/) and MCMC sampling with [emcee](https://emcee.readthedocs.io/en/stable/) on the eggbox distribution.
 
 [Fitting Playground](https://nbviewer.jupyter.org/github/gecheline/fitting_playground/blob/master/sinegaussian_playground.ipynb) 
 - an overview of the performance of both minimizers and samplers when fitting the parameters of 
