@@ -19,3 +19,7 @@ as well as fitting data.
 a sine + Gaussian function.
 
 [Two step sampling: PRISM to emcee](https://nbviewer.jupyter.org/github/gecheline/fitting_playground/blob/master/quadratic_npdists_prism_emcee.ipynb)
+
+
+## NEW
+A short tutorial on [fitting with PHOEBE 2](https://nbviewer.jupyter.org/github/gecheline/fitting_playground/blob/master/fitting_phoebe.ipynb)
